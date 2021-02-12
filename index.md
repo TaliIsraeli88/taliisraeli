@@ -1,17 +1,17 @@
 ## About Me
 
-Hey there, my name is Tali Israeli and I am a sonior software engineer at Tigerconnect. In my free time, I like to love to spend time with my family, read, try new food, hike, travel, and cook.
+Hey there, my name is Tali Israeli and I am a sonior software engineer at Tigerconnect. In my free time, I like to love to spend time with my family, hike, travel, and cook.
 
 
 ### About This Site
 
-This site is built using [Jekyll](https://jekyllrb.com/). It is developed on [GitHub](https://pages.github.com/) using GitHub Pages.
+This site is developed on [GitHub](https://pages.github.com/) using GitHub Pages.
 
 ## Resume
 
 ### Experience
 
-**TigerConnect** Santa Monica, CA, USA |  Dec 2016 – Today
+**TigerConnect** Santa Monica, CA, USA,  Dec 2016 – Today
 
 **Senior Web Software Engineer** | Jan 2020 – Today
 - Build new cross-platform components and refactored codebase using Typescript and React Hooks
@@ -24,7 +24,7 @@ This site is built using [Jekyll](https://jekyllrb.com/). It is developed on [Gi
 - Assisted in re-writing SDK to improve application performance
 - Lead team estimation meetings using agile methodologies
 
-**KENSHOO LTD** Tel Aviv, Israel | May 2013 – Jul 2016
+**KENSHOO LTD** Tel Aviv, Israel, May 2013 – Jul 2016
 
 **Full Stack Developer** | May 2014 – Jul 2016
 - Created web applications and services, client and server side including dashboards and visualizations, based on: AngularJS, jQuery, CSS3, HTML5, PHP, MySQL, Redis and AJAX.
