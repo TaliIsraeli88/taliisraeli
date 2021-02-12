@@ -11,7 +11,7 @@ This site is developed on [GitHub](https://pages.github.com/) using GitHub Pages
 
 ### Experience
 
-**TigerConnect** Santa Monica, CA, USA,  Dec 2016 – Today
+**TIGERCONNECT** Santa Monica, CA, USA,  Dec 2016 – Today
 
 **Senior Web Software Engineer** | Jan 2020 – Today
 - Build new cross-platform components and refactored codebase using Typescript and React Hooks
