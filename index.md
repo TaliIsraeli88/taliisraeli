@@ -36,7 +36,7 @@ This site is developed on [GitHub](https://pages.github.com/) using GitHub Pages
 - Expertly supervised large number of Linux servers, both physical and virtual, hosted in remote data centers.
 - Propelled and organized “war rooms” and solved problems in real time by bringing meaningful inputs and collaborating with different teams in the company.
 
-**ISRAELI DEFENSE FORCE | Givatayim, Israel | 2007 – 2009**
+**ISRAELI DEFENSE FORCE, 2007 – 2009**
 
 **Chemical R&D Technician**
 - Directed and streamlined micro optical-mechanical systems and sensors development, with an emphasis on materials application and process development.
